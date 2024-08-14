@@ -1,0 +1,22 @@
+Desafio:
+• Analisar várias bases de dados de vendas e calcular indicadores de vendas.
+• Calcular produto mais vendido, mais vendido em faturamento, qual cidade que mais faturou, criar um gráfico dinâmico com tudo isso.
+
+Passo 1:
+    * Percorrer todos os arquivos da pasta de vendas.
+    * Criar uma biblioteca
+    * Exibir informações visuais
+Passo 2:
+    Importar as bases de dados de vendas.
+
+Passo 3:
+    Tratar/Compilar e compilar as bases de dados
+
+Passo 4:
+    Calcular o produto mais vendido (em quantidade)
+
+Passo 5:
+    Calcular o produto que mais faturou (em faturamento)
+
+Passo 6:
+    Calcular a loja/cidade que mais vendeu (em faturamento) - criar um gráfico/dashboard
